@@ -1,7 +1,7 @@
 ✉️ Neste projeto, imagens são armazenadas no servidor para possibilitar a criação de diversos tipos de e-mails.
 
 ## Tecnologias Utilizadas 📚
-- **HTML:** Estrutura o conteúdo do e-mail, garantindo que seja compatível com a maioria dos clientes de e-mail.
+- **HTML5:** Estrutura o conteúdo do e-mail, garantindo que seja compatível com a maioria dos clientes de e-mail.
 
 ## Contribuições 🫂
 
