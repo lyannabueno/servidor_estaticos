@@ -1,71 +1,71 @@
-✉️ Neste projeto, imagens são armazenadas no servidor para possibilitar a criação de diversos tipos de e-mails.
+## Technologies Used 📚
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</p>
 
-## Tecnologias Utilizadas 📚
-- **HTML5:** Estrutura o conteúdo do e-mail, garantindo que seja compatível com a maioria dos clientes de e-mail.
+## Contributions 🫂
 
-## Contribuições 🫂
+Contributions to improve the average calculator are welcome. If you have a suggestion to enhance this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-Contribuições para melhorar a calculadora de médias são bem-vindas. Se você tem uma sugestão para melhorar este projeto, sinta-se à vontade para criar um fork do repositório, fazer suas alterações e enviar um pull request.
-
-## Contato 📩
+## Contact 📩
 
 Ana Bueno - anabuenogomes@hotmail.com
 
 ---
 
-# E-mail de confirmação de pedido 👟
-Este projeto é dedicado ao envio de e-mails de confirmação de pedidos aos clientes, garantindo uma comunicação eficaz e melhorando a experiência de compra. 
+# Order Confirmation Email 👟
+This project is dedicated to sending order confirmation emails to customers, ensuring effective communication and improving the shopping experience.
 
-### Como usuário o recebe:
+### How the user receives it:
 <img src="https://github.com/lyannabueno/servidor_estaticos/assets/130186281/3a87391a-3cb6-4728-8e51-4eececd5f356" width="500" height="500">
 
-## Funcionamento: 🌟
-- **Confirmação de Pedido:** Assim que o pagamento é confirmado, este e-mail é enviado para informar o cliente sobre o status do seu pedido.
-- **Rastreamento do Pedido:** O botão "Acompanhar pedido" permite ao cliente verificar o status de entrega do seu produto.
-- **Detalhes do Pedido:** O e-mail destaca as características do produto adquirido, incluindo foto, tamanho, cor, quantidade, preço e número do pedido.
+## Operation: 🌟
+- **Order Confirmation:** As soon as payment is confirmed, this email is sent to inform the customer about the status of their order.
+- **Order Tracking:** The "Track Order" button allows the customer to check the delivery status of their product.
+- **Order Details:** The email highlights the characteristics of the purchased product, including photo, size, color, quantity, price, and order number.
 
-## Vizualizando o e-mail 📩
+## Viewing the Email 📩
 
-Para visualizar o template do e-mail, siga os passos abaixo:
+To view the email template, follow the steps below:
 
-### Passos para Executar
+### Steps to Execute
 
-1. **Clone ou baixe o repositório:**
+1. **Clone or download the repository:**
 
 ```bash
 https://github.com/lyannabueno/email-rastreamento.git
 ```
 
-2. **Abra o arquivo `index.html`:**
+2. **Open the `index.html` file:**
 
-Localize o arquivo `index.html` no diretório do projeto e abra-o em um navegador web.
+Locate the `index.html` file in the project directory and open it in a web browser.
 
 ---
 
-# E-mail de transferência bancária 💵
-Este projeto é dedicado ao envio de e-mails de notificação para clientes informando sobre transferências recebidas, como PIX, melhorando assim a comunicação com o cliente e enriquecendo a experiência do usuário.
+# Bank Transfer Email 💵
+This project is dedicated to sending notification emails to customers informing them about received transfers, such as PIX, thus improving communication with the customer and enriching the user experience.
 
-### Como usuário o recebe:
+### How the user receives it:
 <img src="https://github.com/lyannabueno/servidor_estaticos/assets/130186281/95b142d3-8e6d-4def-be81-6b8bc980f2b6" width="600" height="500">
 
-## Funcionamento: 🌟
-- **Notificação de Transferência:** O e-mail notifica o cliente de que ele recebeu uma transferência, melhorando a transparência e a confiança no serviço.
-- **Detalhes da Transferência:** Fornece informações essenciais sobre a transferência, como o valor recebido e a data e hora da transação.
+## Operation: 🌟
+- **Transfer Notification:** The email notifies the customer that they have received a transfer, improving transparency and trust in the service.
+- **Transfer Details:** Provides essential information about the transfer, such as the received amount and the date and time of the transaction.
 
-## Vizualizando o e-mail 📩
+## Viewing the Email 📩
 
-Para visualizar o template do e-mail, siga os passos abaixo:
+To view the email template, follow the steps below:
 
-### Passos para Executar
+### Steps to Execute
 
-1. **Clone ou baixe o repositório:**
+1. **Clone or download the repository:**
 
 ```bash
 https://github.com/lyannabueno/email-transferencia.git
 ```
 
-2. **Abra o arquivo `index.html`:**
+2. **Open the `index.html` file:**
 
-Localize o arquivo `index.html` no diretório do projeto e abra-o em um navegador web.
+Locate the `index.html` file in the project directory and open it in a web browser.
 
 ---
